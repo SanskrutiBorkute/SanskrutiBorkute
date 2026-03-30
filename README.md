@@ -7,7 +7,7 @@ B.Tech Computer Engineering 3rd year Student
 ---
 
 ##  About Me
-- 🌱 I’m currently learning: **AI/ML **
+- 🌱 I’m currently learning: AI/ML 
 - 📫 How to reach me: **sanskrutiborkute@gmail.com**
 
 
