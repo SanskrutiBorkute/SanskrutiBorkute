@@ -7,7 +7,6 @@ B.Tech Computer Engineering 3rd year Student
 ---
 
 ##  About Me
--*
 - 🌱 I’m currently learning: **AI/ML **
 - 📫 How to reach me: **sanskrutiborkute@gmail.com**
 
@@ -23,23 +22,22 @@ B.Tech Computer Engineering 3rd year Student
 ---
 
 ## 🚀 Projects
-Here are some of my favorite projects:
-
 - 🔹 **Smart CAPTCHA Generator + Strength Analyzer**
 - 🔹 **AI Chatbot Based Ticket System**
 - 🔹 **Medicine Quality Detection**
-- 🔹 **Conversational Image Recognition Chatbot **
+- 🔹 **Conversational Image Recognition Chatbot**
 - 🔹 **Women Safety Analytics System**
 
+
+- 
 ---
 
 
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn:www.linkedin.com/in/sanskruti-borkute-60464b32b
+- GitHub:https://github.com/SanskrutiBorkute
 
 ---
 
-⭐️ From [Your Name]
