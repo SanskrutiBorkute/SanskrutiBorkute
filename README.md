@@ -26,7 +26,7 @@ B.Tech Computer Engineering 3rd year Student
 
 ##  Connect with Me
 - LinkedIn:www.linkedin.com/in/sanskruti-borkute-60464b32b
-- GitHub:https://github.com/SanskrutiBorkute
+
 
 ---
 
