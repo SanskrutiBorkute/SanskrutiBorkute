@@ -1,5 +1,5 @@
 # About Me:
-Hi there I'm Sanskruti Borkute<br>B.Tech Computer Engineering 3rd year Student<br><br>About Me<br>I’m currently learning: AI/ML<br><br>Languages: Python, C++, Java<br>Web: HTML, CSS<br>Database: MySQL<br>Tools: GitHub, VS Code
+Hi there I'm Sanskruti Borkute<br>B.Tech Computer Engineering Final Year Student<br><br>About Me<br>I’m currently learning: AI/ML<br><br>Languages: Python, C++, Java<br>Web: HTML, CSS<br>Database: MySQL<br>Tools: GitHub, VS Code
 
 
 ## 🌐 Socials:
